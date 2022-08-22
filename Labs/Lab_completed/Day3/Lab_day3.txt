@@ -1,0 +1,7 @@
+functions
+-------
+1. Create and test a function which accepts three numbers and print the average of the numbers
+
+2. Modify the above function to accept a variable number of arguments
+
+3. Create and test a function which accepts a dictionary and a value. The function should return the count of the given value in the dictionary. Try callng the function using keyword arguments.

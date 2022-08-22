@@ -1,0 +1,8 @@
+1. Create an empty list. Accept names and store them in the list in upper case. Finally print the names in the list in sorted order.
+
+2. Add code to the above program to check if the list contains duplicate names. If so, remove the duplicate name.
+
+3. Create a dictionary in which the keys are numbers within the range 1 to 20 and the value for each key is the cube of the number.
+
+4. Create a dictionary with host names and corresponding IP addresses. Add code to allow searching in the dictionary. If the searched hostname is not in the dictionary, print an error message.
+

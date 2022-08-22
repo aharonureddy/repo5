@@ -1,0 +1,8 @@
+1. accept a name and print the length of the name. If name is blank print an error message 'please enter a valid value'
+2. Accept the three angles of a triangle and print if it is an isosceles triangle or not
+3. print all even numbers between 20 and 40, including 40
+4. print the square root of all numbers from 1 to 20
+5. Create a script which accepts a number and prints the multiplication table of the number  in the format '1 X n = n' and so on up to '12 X n ='
+6. Print a rectangle of length 20 and width 10 made of symbol'*' 
+7. Accept numbers from the user until the user enters 0. Print back the number if it is an even number divisible by 3
+8. Accept numbers from the user until the user enters 0 and print the average of the numbers.

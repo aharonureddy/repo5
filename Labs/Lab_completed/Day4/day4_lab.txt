@@ -1,0 +1,13 @@
+1. Create a class called Person.
+The attributes are name, address, contact_no
+Add appropriate methods to access these values
+Create objects and test the class
+
+2. Create a class called Directory which can be initialized with a direcotry path. If the path does not exist, object creation should fail ( an exception should be thrown ).
+Add the following methods:
+
+a) getfiles - returns a list of all files in the directory
+
+b) getfilesbytype(extn) - returns a list of all files with the given extension, e.g: .py, .txt etc. 
+
+c) getfilesbysize(size) - returns a list of files with the specifed size. 

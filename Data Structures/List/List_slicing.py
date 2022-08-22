@@ -1,0 +1,9 @@
+lst1 = [10,20,30,40,50,60]
+lst2 = print(lst1[2:])
+lst3 = print(lst1[-2])
+lst4 = print(lst1[-1:None:-2])
+lst5 = print(lst1[:-1])
+lst6 = print(lst1[len(lst1):0:-1])
+lst7 = print(lst1[len(lst1):None:-1])
+lst8 = print(lst1[:])
+lst9 = print(lst1[::])

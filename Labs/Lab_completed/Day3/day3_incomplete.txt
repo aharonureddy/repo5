@@ -1,0 +1,22 @@
+
+os,sys
+------
+1. print an error message if the current system is not Linux and the exit the program with an error code of 1
+
+2. Accept a directory path from user and Check if the given path is there in system path
+
+3. Modify the above program such that the directory path can be given as a command line argument. If there is no command line argument, the program should ask the user to input the path.
+
+3. create a directory hierarchy for storing everyday's work
+
+4. From your current directory :-
+	a. print the names of all .py files
+	b. print the names and size of all .py files
+	c. print the names of all files above a specific size
+
+random
+------
+5. Create a list of partcipants for an event. Pick two lucky winners from the list.
+
+6. Write a program which simulates rolling of a dice. Print the value each time the dice rolls until it rolls to 1.
+
